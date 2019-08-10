@@ -1,4 +1,10 @@
-# Starter Web Repo
+# First level heading
+
+## Second level heading
+
+## Purpose 
+
+## How to Contribute
 
 This repository is for showing how Git and GitHub work
 
