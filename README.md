@@ -1,5 +1,6 @@
 # First level heading
 Testing stuff
+
 ## Second level heading
 What is going on
 ## Purpose
@@ -13,4 +14,4 @@ Please fork this repository and then issue a pull requests for review.
 Sample website with plenty of files for demos
 
 #Copy right
-copy right
+copy right, all rights reserved
