@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    McKade Sorensen  dmsorensen$$
 # THANKS
 
     <name>
