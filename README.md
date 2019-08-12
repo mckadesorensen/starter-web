@@ -4,7 +4,7 @@ Testing stuff
 What is going on
 ## Purpose
 Here is some more text
-## How to Contribute
+more changes from myfeature branch too## How to Contribute
 
 This repository is for showing how Git and GitHub work
 Please fork this repository and then issue a pull requests for review. 
