@@ -3,7 +3,7 @@ Testing stuff
 ## Second level heading
 What is going on
 ## Purpose
-
+Here is some more text
 ## How to Contribute
 
 This repository is for showing how Git and GitHub work
