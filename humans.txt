@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	
     McKade Sorensen  dmsorensen$$
 # THANKS
 
@@ -12,3 +12,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+	git hubxy
+
